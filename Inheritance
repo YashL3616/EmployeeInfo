@@ -1,7 +1,6 @@
 //using inheriantance
 
 #include <iostream>
-
 using namespace std;
 
 class Person {
